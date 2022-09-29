@@ -2,6 +2,10 @@
 
 App para verificar qual a melhor de opção de abastecimento .
 
+![Captura de Tela 2022-09-29 às 16 04 52](https://user-images.githubusercontent.com/83357882/193121653-6bca3ecc-534f-48cb-8a21-94c78493dd94.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
